@@ -59,7 +59,7 @@
 
 ---
 
-**Made with ❤️ by Grok AI**
+**Made with ❤️ by Wang congsheng**
 
 ## 如何使用
-在对话中输入触发词，Grok 会根据你的平台、垂直领域和当前阶段给你**个性化每日计划**、Checklist 或执行指导。
+在对话中输入触发词， 会根据你的平台、垂直领域和当前阶段给你**个性化每日计划**、Checklist 或执行指导。
